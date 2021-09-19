@@ -1,0 +1,21 @@
+body{
+color:#40514E;
+text-align: center;
+background-color:#7FC8A9
+}
+.top-cloud{
+left: 38%;
+position: relative;
+padding-top: 30px;
+}
+.bottom-cloud{
+position: absolute;
+left:66px;
+}
+h1{
+font-size: 55px;
+font-family: "Trebuchet MS",sans-serif;
+}
+p{
+font-size:19px;
+}
